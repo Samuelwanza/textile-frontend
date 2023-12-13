@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+    background: url('https://youtu.be/2F5nOEfttIk?si=nIWgU6LtoCmqf5wm') no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.card {
+    margin-top: 50px;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 20px;
+}
